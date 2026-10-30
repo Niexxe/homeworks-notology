@@ -17,6 +17,6 @@
 | 9 | [Анализ дампа оперативной памяти](homeworks/09-memory-dumps/README.md) | 
 | 10 | [Active Directory](homeworks/10-active-directory/README.md) | 
 | 11 | [Диплом — тестирование на проникновение](homeworks/11-pentest-diploma/README.md) | 
-| 12 | [Пентест — отчёт из Word](homeworks/12-pentest-word/README.md) | 
+| 12 | [Пентест](homeworks/12-pentest-word/README.md) | 
 | 13 | [Linux Hardening](homeworks/13-linux-hardening/README.md) | 
 | 14 | [Windows Hardening](homeworks/14-windows-hardening/README.md) | 
